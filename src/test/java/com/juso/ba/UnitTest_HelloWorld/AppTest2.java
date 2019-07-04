@@ -31,7 +31,7 @@ public class AppTest2
     	ExtentReports extent = new ExtentReports();
     	reporter.config().setTheme(Theme.DARK);
     	extent.attachReporter(reporter);
-    	ExtentTest test = extent.createTest("UnitTest");
+    	ExtentTest test = extent.createTest("Login Test");
     	
     	
     	
