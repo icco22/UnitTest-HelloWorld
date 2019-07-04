@@ -4,6 +4,8 @@
 		<classes>
 			<class name="com.juso.ba.UnitTest_HelloWorld.AppTest">
 			</class>
+			<class name="com.juso.ba.UnitTest_HelloWorld.AppTest2">
+			</class>
 			
 		</classes>
 	</test>
