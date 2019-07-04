@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuiteDemo" duration-ms="9572" started-at="2019-07-04T07:12:41Z" finished-at="2019-07-04T07:12:51Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9572" started-at="2019-07-04T07:12:41Z" finished-at="2019-07-04T07:12:51Z">
+      <class name="com.juso.ba.UnitTest_HelloWorld.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.juso.ba.UnitTest_HelloWorld.AppTest@cb5822]" name="setUp" is-config="true" duration-ms="9" started-at="2019-07-04T07:12:41Z" finished-at="2019-07-04T07:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="unitTest()[pri:0, instance:com.juso.ba.UnitTest_HelloWorld.AppTest@cb5822]" name="unitTest" duration-ms="9519" started-at="2019-07-04T07:12:41Z" finished-at="2019-07-04T07:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unitTest -->
+      </class> <!-- com.juso.ba.UnitTest_HelloWorld.AppTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- TestSuiteDemo -->
+</testng-results>

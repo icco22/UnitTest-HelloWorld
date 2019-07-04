@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuiteDemo" verbose="1">
+	<test name="Test1">
+		<classes>
+			<class name="com.juso.ba.UnitTest_HelloWorld.AppTest">
+			</class>
+			
+		</classes>
+	</test>
+</suite>
