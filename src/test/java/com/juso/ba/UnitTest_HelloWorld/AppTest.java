@@ -27,7 +27,7 @@ public class AppTest
     @Test
     public void unitTest() throws InterruptedException {
     	
-    	ExtentHtmlReporter reporter = new ExtentHtmlReporter("./reports/learn_automation.html");
+    	ExtentHtmlReporter reporter = new ExtentHtmlReporter("./reports/unit_test_hello_world.html");
     	ExtentReports extent = new ExtentReports();
     	reporter.config().setTheme(Theme.DARK);
     	extent.attachReporter(reporter);
